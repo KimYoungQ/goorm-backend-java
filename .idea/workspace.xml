@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5236dcd5-e6d3-4db4-8da8-e2442aaba265" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17/TodoList/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day17/TodoList/Todo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17/TodoList/TodoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day17/TodoList/TodoList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +35,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.GameTest.executor": "Run",
+    "Application.Grouping.executor": "Run",
     "Application.Pratice7_2.executor": "Run",
     "Application.TodoList.executor": "Run",
+    "Application.WorldCount.executor": "Run",
+    "Application.list_set.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -49,13 +51,13 @@
     "last_opened_file_path": "/Users/goorm/goorm-backend-java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StudentManager">
-    <configuration name="GameTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day14.GameTest" />
+  <component name="RunManager" selected="Application.Inventory">
+    <configuration name="Grouping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.Grouping" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14.*" />
+          <option name="PATTERN" value="day18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice7_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day17.Practice7_2" />
+    <configuration name="Inventory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.practice.Inventory" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day17.TodoList.*" />
+          <option name="PATTERN" value="day18.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +91,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TodoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day17.TodoList.TodoList" />
+    <configuration name="WorldCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.WorldCount" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day17.TodoList.*" />
+          <option name="PATTERN" value="day18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="list_set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.list_set" />
+      <module name="helloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,10 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inventory" />
+        <item itemvalue="Application.Grouping" />
+        <item itemvalue="Application.WorldCount" />
+        <item itemvalue="Application.list_set" />
         <item itemvalue="Application.StudentManager" />
-        <item itemvalue="Application.TodoList" />
-        <item itemvalue="Application.Practice7_2" />
-        <item itemvalue="Application.GameTest" />
       </list>
     </recent_temporary>
   </component>
