@@ -2,70 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5236dcd5-e6d3-4db4-8da8-e2442aaba265" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/VariablePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day1/VariablePractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day10/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day10/PersonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day10/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day10/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day11/StringUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day12/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day12/BookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day13/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day13/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day13/Motorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day13/Motorcycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day13/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day13/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day13/VehicleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day13/VehicleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/pratice1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day14/pratice1/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/pratice1/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day14/pratice1/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/pratice1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day14/pratice1/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/pratice1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day14/pratice1/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/pratice1/PolymorphismTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day14/pratice1/PolymorphismTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/pratice2/CardPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day14/pratice2/CardPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/pratice2/CashPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day14/pratice2/CashPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/pratice2/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day14/pratice2/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/pratice2/PaymentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day14/pratice2/PaymentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/pratice4/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day14/pratice4/Delivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/pratice4/DeliveryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day14/pratice4/DeliveryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/pratice4/ExpressDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day14/pratice4/ExpressDelivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/pratice4/OvernightDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day14/pratice4/OvernightDelivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14/pratice4/StandardDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day14/pratice4/StandardDelivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day15/Attackable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day15/Attackable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day15/GameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day15/GameTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day15/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day15/Monster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day15/Movable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day15/Movable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day15/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day15/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day16/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16/CustomExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day16/CustomExceptionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16/ExceptionBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day16/ExceptionBasic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16/InsufficientBalanceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day16/InsufficientBalanceException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16/InvaildAgeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day16/InvaildAgeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day16/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16/MultipleCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day16/MultipleCatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17/Practice7_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day17/Practice7_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17/Practice8_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day17/Practice8_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17/Practice8_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day17/Practice8_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17/Practice8_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day17/Practice8_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17/StudentManager/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day17/StudentManager/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17/StudentManager/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day17/StudentManager/StudentManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17/TodoList/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day17/TodoList/Todo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17/TodoList/TodoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day17/TodoList/TodoList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day18/Grouping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day18/Grouping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day18/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day18/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day18/WorldCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day18/WorldCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day18/list_set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day18/list_set.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day18/practice/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day18/practice/Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/Calculator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day2/Calculator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3/GradeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day3/GradeCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3/LoginValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day3/LoginValidation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day4/PrimeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/ArrayAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day5/ArrayAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/GradeManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day5/GradeManagementSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/Ploblem5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day5/Ploblem5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day5/Problem1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/Problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day5/Problem2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/Problem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day5/Problem3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/Problem4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day5/Problem4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lecture/day5/VendingMachine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +40,9 @@
     "Application.Inventory.executor": "Run",
     "Application.Number.executor": "Run",
     "Application.Pratice7_2.executor": "Run",
+    "Application.StreamBasic.executor": "Run",
+    "Application.StreamProducts.executor": "Run",
+    "Application.StreamStatistics.executor": "Run",
     "Application.Student.executor": "Run",
     "Application.Text.executor": "Run",
     "Application.TodoList.executor": "Run",
@@ -122,7 +63,7 @@
     "last_opened_file_path": "/Users/goorm/goorm-backend-java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Text">
+  <component name="RunManager" selected="Application.StreamStatistics">
     <configuration name="Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_lecture.day19.behaviorParameterization.exercise1.Number" />
       <module name="helloWorld" />
@@ -136,12 +77,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_lecture.day19.behaviorParameterization.excercise2.Student" />
+    <configuration name="StreamBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_lecture.day19.StreamAPI.StreamBasic" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_lecture.day19.behaviorParameterization.excercise2.*" />
+          <option name="PATTERN" value="java_lecture.day19.StreamAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamProducts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_lecture.day19.StreamAPI.StreamProducts" />
+      <module name="helloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_lecture.day19.StreamAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamStatistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_lecture.day19.StreamAPI.StreamStatistics" />
+      <module name="helloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_lecture.day19.StreamAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,39 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_lecture.day18.Grouping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_lecture.day18.Grouping" />
-      <module name="helloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_lecture.day18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java_lecture.day19.behaviorParameterization.Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_lecture.day19.behaviorParameterization.Apple" />
-      <module name="helloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_lecture.day19.behaviorParameterization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamStatistics" />
+        <item itemvalue="Application.StreamProducts" />
+        <item itemvalue="Application.StreamBasic" />
         <item itemvalue="Application.Text" />
         <item itemvalue="Application.Number" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.java_lecture.day19.behaviorParameterization.Apple" />
-        <item itemvalue="Application.java_lecture.day18.Grouping" />
       </list>
     </recent_temporary>
   </component>
